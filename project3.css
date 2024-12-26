@@ -1,0 +1,35 @@
+h1 {
+    color:rgb(120, 121, 231);
+    background: rgba(62, 192, 36, 0.596);
+    border-color:rgb(74, 74, 180);
+    border-width: 5px;
+     border-style: ridge;
+}
+
+
+h2 {
+    color: brown;
+}
+
+p {
+    color: rgba(156, 107, 33, 0.596);
+}
+h3 {
+    color: rgba(185, 14, 14, 0.781);
+
+}
+body {
+    background-color: rgb(37, 180, 180);
+    border : 20px solid #bdc3c7 ;
+    padding : 20px ;
+    max-width: 700px;
+    width: 80%;
+    margin: 20px auto;
+}
+
+em{
+    color: aquamarine;
+}
+
+
+
